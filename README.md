@@ -25,9 +25,14 @@
 
 ## Screenshots
 
-| לוח משימות | הרשמה | יצירת משימה |
-|:---:|:---:|:---:|
-| ![לוח משימות](screenshots/dashboard.png) | ![הרשמה](screenshots/register.png) | ![יצירת משימה](screenshots/task-form.png) |
+**לוח משימות**
+![לוח משימות](screenshots/dashboard.png)
+
+**הרשמה**
+![הרשמה](screenshots/register.png)
+
+**יצירת משימה**
+![יצירת משימה](screenshots/task-form.png)
 
 ---
 
